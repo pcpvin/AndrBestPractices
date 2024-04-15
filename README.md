@@ -3,8 +3,7 @@ Android development is a dynamic field with evolving best practices. Keeping up 
 
 The content in this repository covers various aspects of Android development, including architecture patterns, UI/UX design, performance optimization, testing, and more. Whether you're building a simple app or a complex enterprise-level application, you'll find valuable insights here to improve your development process.
 
-**Getting Started   
-**  
+**Getting Started**  
 To get started with this repository, follow these steps:
 
 
